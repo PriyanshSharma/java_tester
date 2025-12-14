@@ -1,0 +1,32 @@
+# =========================
+# Java compiled files
+# =========================
+*.class
+
+# =========================
+# Bin directory (all content)
+# =========================
+bin/
+**/bin/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS-specific (Windows)
+# =========================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# =========================
+# IDE (optional but recommended)
+# =========================
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
