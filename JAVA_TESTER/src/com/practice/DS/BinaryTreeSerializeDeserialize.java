@@ -38,13 +38,10 @@ public class BinaryTreeSerializeDeserialize {
 			 
 			
 			 q.add(node.left);
-			 
-			 res.append(node.left.val);
-			 res.append(",");
-			 
 			 q.add(node.right);
-			 res.append(node.right.val);
-			 res.append(",");
+			 
+			 
+			 res.append(node.val).append(",");
 			 
 		 }
 		 

@@ -32,7 +32,7 @@ public class BinarySearchTreeRecover {
 		System.out.println("My original tree -- ");
 		TreePrinter.printTree(node);
 		
-		System.out.println("Inder traversal of the tree -- ");
+		System.out.println("Inoder traversal of the tree -- ");
 		BinaryTreeCreation.createTreeInOrder(node);
 		
 		
@@ -43,7 +43,7 @@ public class BinarySearchTreeRecover {
 		TreePrinter.printTree(node);
 		
 		
-		System.out.println("Inder traversal of the tree after swapped -- ");
+		System.out.println("Inoder traversal of the tree after swapped -- ");
 		BinaryTreeCreation.createTreeInOrder(node);
 		
 		
