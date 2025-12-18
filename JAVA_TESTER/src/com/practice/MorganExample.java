@@ -42,25 +42,25 @@ public final class MorganExample {
 		
 		this.list = tempList;
 	}
-///lru	-->> get & save operation - O(1)
-	
-1.	1->2->3->4->5->NULL = LinkedHashMap().entryset.iterator.next() ==> map.remove()
-
-	update(KEY,VALUE){
-	
-	map.put(4,"newvalue");
-	
-}
+/////lru	-->> get & save operation - O(1)
+//	
+//1.	1->2->3->4->5->NULL = LinkedHashMap().entryset.iterator.next() ==> map.remove()
+//
+//	update(KEY,VALUE){
+//	
+//	map.put(4,"newvalue");
+//	
+//}
 // HashSet<Employee> = 
 
 //Employee =
 //{name,age,salary},{name,age,salary}
 //e1,e2
 
-e1---> ADrr1
-e2--> addr2
-
-2. add => map.put()
+//e1---> ADrr1
+//e2--> addr2
+//
+//2. add => map.put()
 	
 	
 	
