@@ -1,0 +1,87 @@
+Pattern wise sheet - 
+
+ Git hub - https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews/blob/main/%E2%9C%85%20%20Pattern%2001%20%3A%20Sliding%20Window.md
+
+
+Pattern to practicce -- 
+
+
+1. Sliding windiw + two pointer 
+	Beginner 
+	----------------
+	1. Sliding window - Git hub
+	2. two pointer - Gut hub
+	3. fast and slow pointer Git hub - Mostly covered for linkedList
+	
+	Advanced and more practice 
+	---------------------------
+	1. Sliding window and two pointer - Striver  - https://www.youtube.com/watch?v=9kdHxplyl5I&list=PLioQGwJpz056StpeGLCiiRMi89PhXvODB
+	2. CodeStorywithMik - youtube - https://www.youtube.com/watch?v=mrUBUWb23hk&list=PLpIkg8OmuX-J2Ivo9YdY7bRDstPPTVGvN
+	
+	
+2. LinkedList - Anuj Bhaiya + Striver --> limited questions are there once you get the Linked list operations
+
+3. Recursion + backtracking 
+	1. Striver - playlist - https://www.youtube.com/watch?v=yVdKa8dnKiE&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9
+	2. Apna collge for reference
+	2. For more understanding - Code story with mik 
+	
+4. Binary Search - Advanced Binary search 
+	Beginner
+	-------------
+	1. Start with Anuj bhaiya questions - https://www.youtube.com/watch?v=N89PN_uyelU&list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p  (refer binary search questions)
+	2. Normal and advanced Binary search - GIT HUB
+	
+	Advanced 
+	------------------
+	1. Binary earch - Striver playlist
+	
+5. B-Tree + BST (Complete recursion first)
+
+	Complete All traversal - DFS+BFS
+
+	Beginner
+	------------
+	1. Anuj bhaiya
+	
+	Advanced and more questions 
+	------------------------------
+	
+	1. Striver - playlist - https://www.youtube.com/watch?v=_ANrF3FJm7I&list=PLkjdNRgDmcc0Pom5erUBU4ZayeU9AyRRu
+	
+	
+6. Dynamic programing
+
+	Beginner
+	-----------
+	1. Start with Anuj bhaiya
+	
+	Advanced and practise 
+	-------------------------
+	
+	1. Striver playlist - https://www.youtube.com/watch?v=FfXoiwwnxFw&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY
+	
+	Dont start before complete recursion
+	
+
+7. Graph - Hard topic - Less Asked to be done at the last.
+
+	Beginner
+	------------
+	
+	1. Apna College playslist
+	
+	Advanced 
+	--------------
+	1. Striver playlist
+	
+	
+	
+
+	
+MyGit hub repo contains all the programs till now -- 
+
+ https://github.com/PriyanshSharma/java_tester.git
+https://github.com/PriyanshSharma/java_tester
+
+
